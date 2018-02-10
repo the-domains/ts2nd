@@ -1,0 +1,35 @@
+typography_spectrum: 0.3345374729601427
+color:
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+  brandStrength: 0.9286220277076828
+  lightness: 0.11075385031649972
+  saturation: 0.5797589840061298
+  rhythmicContrast: 0.555900055594226
+github: true
+layout_spectrum: 0.13221544787250827
+author:
+  name: ホゲホゲ
+name: ts2nd
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: 犬は可愛い
+    id: 6137cb65-a600-48c7-acaf-cc2a60b4959c
+    type: content
+  - name: いい感じ
+    id: a3c737b5-b2e5-4e19-a2c7-afff506bb761
+    type: content
+title: ts2nd
+content: []
+description: gridの紹介
+purpose: []
